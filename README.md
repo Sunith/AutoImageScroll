@@ -1,6 +1,8 @@
 AutoImageScroll
 ===============
 
+Project supported only in xcode 5. Since I have used Container View in this project.
+
 Scroll Images Automatically
 
 Here we can scroll n number of images automatically.
